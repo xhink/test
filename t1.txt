@@ -1,7 +1,0 @@
-file t1.txt
-file modify
-remove modify
-iss01 modify
-----------------------
-file modify 2
-wjx
